@@ -21,7 +21,7 @@ Este repositorio reúne distintas prácticas realizadas con Python para el proce
 
 - NLTK
 
--presidio-analyzer, presidio-anonymizer
+- presidio-analyzer, presidio-anonymizer
 
 - random
 
