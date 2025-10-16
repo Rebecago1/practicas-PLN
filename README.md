@@ -8,20 +8,24 @@ Este repositorio reúne distintas prácticas realizadas con Python para el proce
 
 **practica4.ipynb**: clasificador Naive Bayes en dos variantes, Bernoulli (SoW) y Multinomial (BoW), con suavizado de Laplace.
 
-**practica5.ipynb**: técnicas de PLN para el resumen extractivo.
+**practica5.ipynb**: métodos de PLN para el resumen extractivo.
 
 **practica6.ipynb**: técnicas de *clustering* de aprendizaje no supervisado con K-Means sobre TF-IDF (con y sin vocabulario propio) y *topic modeling* con LDA (gensim), tras filtrar *stopwords* y puntuación.
 
-**practica7.ipynb**: 
+**practica7.ipynb**: creación de un programa de anonimización mediante detección de entidades y de correos electrónicos con spaCy y expresiones regulares. Comparación de su rendimiento con el *software* Microsoft Presidio. 
 
-**Librerías o módulos de Python empleados**:
+**Librerías o módulos de Python empleados**: 
 - gensim
 
 - math
 
 - NLTK
 
+-presidio-analyzer, presidio-anonymizer
+
 - random
+
+  -re
 
 - scikit-learn
 
