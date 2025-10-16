@@ -6,7 +6,7 @@ practica1.ipynb: tokenización, filtrado de puntuación/*stopwords*, conteo de f
 
 practicas2y3.ipynb: técnicas de recuperación de información con índice inverso, representaciones SoW/BoW, diccionarios, cálculo de DF, IDF y TF-IDF.
 
-practica4.ipynb — Construcción y análisis de vocabulario con NLTK.
+practica4.ipynb — clasificador Naive Bayes en dos variantes —Bernoulli (SoW) y Multinomial (BoW)— con suavizado de Laplace.
 
 practica5.ipynb — Resumen y clasificación de texto mediante TF-IDF y modelos de machine learning.
 
