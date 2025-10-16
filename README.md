@@ -2,19 +2,22 @@ Este repositorio reúne distintas prácticas realizadas con Python para el proce
 
 **Contenido de los archivos:** 
 
-practica1.ipynb: tokenización, filtrado de puntuación/*stopwords*, conteo de frecuencias, representaciones dispersa/densa, comparación de equivalencias por normalización, *stemming*, lematización y sinónimos.
+**practica1.ipynb**: tokenización, filtrado de puntuación/*stopwords*, conteo de frecuencias, representaciones dispersa/densa, comparación de equivalencias por normalización, *stemming*, lematización y sinónimos.
 
-practicas2y3.ipynb: técnicas de recuperación de información con índice inverso, representaciones SoW/BoW, diccionarios, cálculo de DF, IDF y TF-IDF.
+**practicas2y3.ipynb**: técnicas de recuperación de información con índice inverso, representaciones SoW/BoW, diccionarios, cálculo de DF, IDF y TF-IDF.
 
-practica4.ipynb — clasificador Naive Bayes en dos variantes —Bernoulli (SoW) y Multinomial (BoW)— con suavizado de Laplace.
+**practica4.ipynb**: clasificador Naive Bayes en dos variantes —Bernoulli (SoW) y Multinomial (BoW)— con suavizado de Laplace.
 
-practica5.ipynb — técnicas de pln para el resumen extractivo
+**practica5.ipynb**: técnicas de pln para el resumen extractivo.
 
-practica6.ipynb — *clustering* documental con Gensim y scikit-learn.
+**practica6.ipynb**: *clustering* documental con Gensim y scikit-learn.
 
-Librerías empleadas:
-NLTK
-spaCy
-scikit-learn
-math
-summarizer
+**practica7.ipynb**: 
+
+**Librerías empleadas**:
+
+- NLTK
+- spaCy
+- scikit-learn
+- math
+
