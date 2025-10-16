@@ -1,4 +1,4 @@
-Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje en las asignaturas *Clasificación, resumen y extracción de la información* y *Procesamiento del Lenguaje en ciberseguridad*, pertenecientes al Máster en Procesamiento del Lenguaje e Inteligencia Artificial aplicada a la Lingüística de la Universidad de La Rioja.
+Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje en las asignaturas *Clasificación, resumen y extracción de la información* y *Procesamiento del Lenguaje en ciberseguridad*, pertenecientes al Máster univerditario en Procesamiento del Lenguaje y apicaciones de la Inteligencia Artificial a la Lingüística de la Universidad de La Rioja.
 
 **Contenido de los archivos:** 
 
@@ -6,18 +6,27 @@ Este repositorio reúne distintas prácticas realizadas con Python para el proce
 
 **practicas2y3.ipynb**: técnicas de recuperación de información con índice inverso, representaciones SoW/BoW, diccionarios, cálculo de DF, IDF y TF-IDF.
 
-**practica4.ipynb**: clasificador Naive Bayes en dos variantes —Bernoulli (SoW) y Multinomial (BoW)— con suavizado de Laplace.
+**practica4.ipynb**: clasificador Naive Bayes en dos variantes, Bernoulli (SoW) y Multinomial (BoW), con suavizado de Laplace.
 
 **practica5.ipynb**: técnicas de PLN para el resumen extractivo.
 
-**practica6.ipynb**: *clustering* documental con Gensim y scikit-learn.
+**practica6.ipynb**: técnicas de *clustering* de aprendizaje no supervisado con K-Means sobre TF-IDF (con y sin vocabulario propio) y *topic modeling* con LDA (gensim), tras filtrar *stopwords* y puntuación.
 
 **practica7.ipynb**: 
 
-**Librerías empleadas**:
+**Librerías o módulos de Python empleados**:
+- gensim
+
+- math
 
 - NLTK
-- spaCy
+
+- random
+
 - scikit-learn
-- math
+
+- spaCy
+
+- string
+
 
