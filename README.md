@@ -8,12 +8,13 @@ practicas2y3.ipynb: técnicas de recuperación de información con índice inver
 
 practica4.ipynb — clasificador Naive Bayes en dos variantes —Bernoulli (SoW) y Multinomial (BoW)— con suavizado de Laplace.
 
-practica5.ipynb — Resumen y clasificación de texto mediante TF-IDF y modelos de machine learning.
+practica5.ipynb — técnicas de pln para el resumen extractivo
 
-practica6.ipynb — Representación vectorial y clustering de documentos con Gensim y scikit-learn.
+practica6.ipynb — *clustering* documental con Gensim y scikit-learn.
 
 Librerías empleadas:
 NLTK
 spaCy
 scikit-learn
 math
+summarizer
