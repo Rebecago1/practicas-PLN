@@ -1,4 +1,4 @@
-Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje.
+Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje: tokenización, filtrado de puntuación/stopwords, conteo de frecuencias, representaciones dispersa/densa, comparando equivalencias por normalización, stemming, lematización y sinónimos; usa NLTK (tokenización, stopwords, SnowballStemmer, WordNet) y spaCy (es_core_news_md para lematizar).
 
 **Contenido de los archivos:** 
 
