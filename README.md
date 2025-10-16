@@ -1,4 +1,4 @@
-Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje, diseñadas por el profesor Julio Rubio García para las asignaturas *Clasificación, resumen y extracción de la información* y *Procesamiento del Lenguaje en ciberseguridad*, pertenecientes al Máster universitario en Procesamiento del Lenguaje y apicaciones de la Inteligencia Artificial a la Lingüística de la Universidad de La Rioja.
+Este repositorio reúne distintas prácticas realizadas con Python para el procesamiento del lenguaje, diseñadas por el profesor Julio Rubio García para las asignaturas *Clasificación, resumen y extracción de la información* y *Procesamiento del Lenguaje en ciberseguridad*, pertenecientes al Máster universitario en Procesamiento del Lenguaje y aplicaciones de la Inteligencia Artificial a la Lingüística de la Universidad de La Rioja.
 
 **Contenido de los archivos:** 
 
